@@ -1,0 +1,3 @@
+ejecutar en la carpeta donde está ubicado el archivo "install_lamp.sh"
+
+chmod +x install_lamp.sh && sudo ./install_lamp.sh
