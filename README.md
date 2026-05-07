@@ -463,3 +463,10 @@ tail -f /opt/homebrew/var/log/mysql/error.log
 
 *Generado el 07 May 2026 — macOS · Homebrew LAMP Stack*
 
+---
+
+## 11. Ejecución
+```bash
+# Ejecutar en la carpeta donde está el archivo install_lamp.sh
+chmod +x install_lamp.sh && sudo ./install_lamp.sh 
+```
