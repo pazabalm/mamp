@@ -1,4 +1,4 @@
-# LAMP Stack en macOS con Homebrew
+# MAMP Stack en macOS con Homebrew
 
 > Guía completa del proceso de instalación y configuración de MySQL, Apache, PHP y phpMyAdmin en macOS usando Homebrew.
 
