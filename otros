@@ -1,0 +1,7 @@
+http://localhost:8080 → Apache + PHP
+http://localhost:8080/phpmyadmin → phpMyAdmin
+
+Si en algún momento necesitas levantar los servicios manualmente:
+
+bashbrew services restart httpd
+brew services restart mysql
